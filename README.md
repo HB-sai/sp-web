@@ -4,8 +4,8 @@ HB_sai for test
 --
 
 ## member
-*HB_sai(creator)
-*HBorder_sai(director)
+* HB_sai(creator)
+* HB_sai(director)
 
 
 ## file
